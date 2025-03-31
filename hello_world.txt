@@ -1,0 +1,2 @@
+Hello world, 
+     Figuring out how Git, GitHub, and repositories work via The Odin Project.
